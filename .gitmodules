@@ -1,0 +1,3 @@
+[submodule "compareSheets"]
+	path = reincarnation-changelog
+	url = https://github.com/isabroch/reincarnation-changelog.git
